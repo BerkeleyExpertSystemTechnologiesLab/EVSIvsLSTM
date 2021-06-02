@@ -45,3 +45,10 @@ The section contains the structure graph of this project and some simple descrip
             test_advantage.png
             validation_advantage.png
 ```
+
+
+# Dataset
+The dataset used in this project is the **Tennessee Eastman Process Simulation Data** presented [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1)
+
+# More Info
+For more information about this project, for example, the structure of the dataset, please refer to this [document](https://docs.google.com/document/d/1yGl0GlM8getgzM-Wnretl7_gBmcOdG9ydTT467TEbg8/edit?usp=sharing)
